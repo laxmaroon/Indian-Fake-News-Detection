@@ -8,7 +8,8 @@ Data Quality: Ensuring a high-quality labeled dataset is crucial. Cleaning, bala
 
 Feature Engineering: Selecting relevant features and text preprocessing required careful consideration to capture fake news patterns.
 
-Dataset Used: IDNF from Kaggle.
+Dataset Used: IFND from Kaggle : (https://datasetsearch.research.google.com/search?query=Fake%20Content%20Detection&docid=L2cvMTFzODY4el85cA%3D%3D)
+              Author: Sonal Garg
 
 Results✨:
 
